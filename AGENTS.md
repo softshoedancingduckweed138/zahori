@@ -1,6 +1,6 @@
 # zahori: guide for coding agents
 
-TypeScript ESM library + CLI (Node ≥ 20, pnpm). Finds the media stream behind a web page with a real browser (Playwright), declarative site profiles, and an ffmpeg oracle.
+TypeScript ESM library + CLI (Node ≥ 22, pnpm). Finds the media stream behind a web page with a real browser (Playwright), declarative site profiles, and an ffmpeg oracle.
 
 ## Commands
 

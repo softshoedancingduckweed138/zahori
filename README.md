@@ -71,7 +71,7 @@ npm install zahori      # library
 
 | | |
 |---|---|
-| Node | ≥ 20 |
+| Node | ≥ 22 |
 | Browser | run `npx playwright install chromium --only-shell` once; otherwise your installed Google Chrome is used |
 | ffmpeg | optional, only for `--validate`, `--download` and the discovery oracle |
 
