@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 (2026-07-09)
+
+- Require Node >= 22, matching the AI SDK dependencies. Removes the engine warnings shown during install on older Node versions.
+
 ## 0.1.0 (2026-07-09)
 
 Initial release.

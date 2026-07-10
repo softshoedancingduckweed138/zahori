@@ -1,6 +1,6 @@
 {
   "name": "zahori",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Find the media stream behind any web page. A real browser drives the player and sniffs out the HLS/DASH/MP4; an optional LLM learns tricky sites and repairs them when they change.",
   "license": "MIT",
   "author": "Jose Sepulveda",
@@ -15,7 +15,7 @@
   "mcpName": "io.github.josesepulvedapino/zahori",
   "packageManager": "pnpm@10.33.0",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
